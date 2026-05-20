@@ -64,7 +64,7 @@ BINANCE_API_SECRET=API secret for Binance
 ### Option A — Web Dashboard (recommended)
 
 ```bash
-python app.py
+Run - python app.py
 ```
 
 Open **[http://localhost:5050](http://localhost:5050)** or `http://127.0.0.1:5050` or `http://10.131.252.102:5050`in your browser.
