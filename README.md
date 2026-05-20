@@ -43,7 +43,7 @@ venv\Scripts\activate      (Optional or directly skip the step and move for inst
 
 4. pip install -r requirements.txt
 ```
-bash
+
 ```
 ### 3.  Configure credentials
 
