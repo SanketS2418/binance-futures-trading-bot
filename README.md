@@ -34,14 +34,14 @@ Simple Python trading bot for Binance Futures Testnet.
 4. Copy your **API Key** and **Secret Key**
 
 ### 2. Install
+1 . Use 3.11.7 (I have used these version. As latest version wont support the required dependencies.) 
 
+2. cd project_name(binance-futures-trading-bot-main)
 
-1. cd trading-bot
+3. python -m venv venv
+venv\Scripts\activate      (Optional or directly skip the step and move for installing the requirements)
 
-2. python -m venv venv
-venv\Scripts\activate      
-
-3. pip install -r requirements.txt
+4. pip install -r requirements.txt
 ```
 bash
 ```
@@ -121,7 +121,7 @@ All activity is logged to `logs/trading_bot.log`:
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.9+ (Use till 3.11.x don't use latest version as it is not support the compatibility for latest version)
 - Binance Futures Testnet account
 
 ```
