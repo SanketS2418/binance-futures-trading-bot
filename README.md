@@ -84,7 +84,7 @@ python cli.py --symbol ETHUSDT --side SELL --type LIMIT --quantity 0.1 --price 3
 ```
 
 ### Option C - Added Interactive Mode(Bonus - Enhanced CLI UX)
-python cli.py
+Run - python cli.py
 
 For Example:
 Symbol: BTCUSDT
